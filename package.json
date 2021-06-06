@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "images-to-pdf": "^1.0.3",
+    "printaeu": "^0.1.1"
+  }
+}
